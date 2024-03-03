@@ -4,7 +4,7 @@ Welcome to the documentation for our Blog Website UI! This project aims to provi
 
 ## Demo
 
-Check out the [http://127.0.0.1:5500/index.html] (http://127.0.0.1:5500/index.html) )  to see the Blog Website UI in action!
+Check out the (http://127.0.0.1:5500/index.html)   to see the Blog Website UI in action!
 
 ## Features
 
@@ -19,8 +19,4 @@ To set up the Blog Website UI locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AMISHA1703/Blog-Website-UI.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd blog-website-ui
